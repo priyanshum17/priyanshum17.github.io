@@ -1,0 +1,10 @@
+Sidebar [Done]
+- Contact Changed
+- Social Media Links
+    - Added Linkedin
+    - Aded GitHub
+- Sidebar Length Expansion
+
+About Me
+- Removed Clients
+- Change Icons
