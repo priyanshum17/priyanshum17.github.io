@@ -1,3 +1,5 @@
+05/24
+
 Sidebar [Done]
 - Contact Changed
 - Social Media Links
@@ -8,3 +10,13 @@ Sidebar [Done]
 About Me
 - Removed Clients
 - Change Icons
+
+02/25
+- HomePage
+    - Updated Website Logo (assets/logo.ico)
+    - Updated "About Me" Section
+    - Updated the "Skills" Section
+- Resume
+    - Updated the Resume
+- Portfolio
+    - Added Items to the Portfolio
