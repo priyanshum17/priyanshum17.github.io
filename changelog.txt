@@ -20,3 +20,10 @@ About Me
     - Updated the Resume
 - Portfolio
     - Added Items to the Portfolio
+        - EMNLP Publication Added
+        - Added Machine Learning Project
+        - Fast-API OIDC
+- Blogs
+        - Add VoloHealth
+        - Added EMNLP to the block
+        - Add CS 2340
